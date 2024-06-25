@@ -1,1 +1,1 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/codelike/121312/nginx:latest
+nginx/nginx:latest registry.cn-hangzhou.aliyuncs.com/codelike/121312/nginx:latest
